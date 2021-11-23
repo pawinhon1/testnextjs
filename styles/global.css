@@ -1,0 +1,7 @@
+h1{
+    color:red;
+    text-decoration: none;
+}
+h1:hover{
+    color:blue;
+}
